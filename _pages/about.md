@@ -17,13 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+讲师，海南自由贸易港E类人才。主要从事开放量子系统的非平衡动力学和有机分子体系的光、电、磁性质的理论研究。迄今已发表SCI论文10余篇，其中以第一作者身份在Phys. Rev. A、J. Chem. Theory Comput.、J. Phys. Chem. Lett.等国际学术期刊上发表论文6篇。担任J. Phys. Chem. Lett.、Sci. Rep.等期刊的审稿人。
+
+<span class='anchor' id='education-employment'></span>
+
+# 🧑‍🏫 教育和工作经历
 - 2024–今,海南大学，物理与光电工程学院，讲师；
 
 - 2018–2024，华南理工大学，物理学，博士；
 
 - 2014–2018，华南理工大学，应用物理学，学士。
-
-曾佳锐，讲师，海南自由贸易港E类人才。主要从事开放量子系统的非平衡动力学和有机分子体系的光、电、磁性质的理论研究。迄今已发表SCI论文10余篇，其中以第一作者身份在Phys. Rev. A、J. Chem. Theory Comput.、J. Phys. Chem. Lett.等国际学术期刊上发表论文6篇。担任J. Phys. Chem. Lett.、Sci. Rep.等期刊的审稿人。
 
 <span class='anchor' id='publications'></span>
 
