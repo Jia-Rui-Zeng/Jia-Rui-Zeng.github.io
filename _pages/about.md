@@ -22,7 +22,7 @@ redirect_from:
 <span class='anchor' id='education-employment'></span>
 
 # 🧑‍🏫 教育和工作经历
-- 2024–今,海南大学，物理与光电工程学院，讲师；
+- 2024–今，海南大学，物理与光电工程学院，讲师；
 
 - 2018–2024，华南理工大学，物理学，博士；
 
@@ -44,11 +44,7 @@ redirect_from:
 
 - Guo-Hao Xu, **Jiarui Zeng**, and Yao Yao, Dynamic phases of synthetic bath at negative temperatures, J. Chem. Phys. **162**, 164303 (2025).
 
-**[2] 碳基纳米结构**
-
-- Chang-Chun He, Shao-Gang Xu, **Jiarui Zeng**, Weijie Huang, Yao Yao, Yu-Jun Zhao, Hu Xu, and Xiao-Bao Yang, A graph-based statistical model for carbon nanostructures, J. Chem. Phys. **162**, 154104 (2025).
-
-**[3] 有机分子的光、电、磁性质**
+**[2] 有机分子的光、电、磁性质**
 
 - **Jiarui Zeng** and Yao Yao, Variational squeezed Davydov Ansatz for realistic chemical systems with nonlinear vibronic coupling, J. Chem. Theory Comput. **18**, 1255 (2022).
 
@@ -59,8 +55,6 @@ redirect_from:
 <span class='anchor' id='lectures'></span>
 
 # 📖 教学经历
-- 2026–今，《实验、创新创业实践》，主持。
-
 - 2024–今，《大学物理》、《大学物理实验》，参与。
 
 <span class='anchor' id='others'></span>
