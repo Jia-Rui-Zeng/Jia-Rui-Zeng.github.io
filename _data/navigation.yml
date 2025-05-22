@@ -1,16 +1,16 @@
 # main links links
-main:
-  - title: "About Me"
-    url: "/#about-me"
+#main:
+#  - title: "About Me"
+#    url: "/#about-me"
 
-  - title: "Education and Employment"
-    url: "/#education-employment"
+#  - title: "Education and Employment"
+#    url: "/#education-employment"
 
-  - title: "Publications"
-    url: "/#publications"
+#  - title: "Publications"
+#    url: "/#publications"
 
-  - title: "Lectures"
-    url: "/#lectures"
+#  - title: "Lectures"
+#    url: "/#lectures"
 
-  - title: "Others"
-    url: "/#others"
+#  - title: "Others"
+#    url: "/#others"
