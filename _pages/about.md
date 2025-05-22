@@ -21,12 +21,17 @@ redirect_from:
 
 <span class='anchor' id='education-employment'></span>
 
-# 🧑‍🏫 教育和工作经历
-- 2024–今，海南大学，物理与光电工程学院，讲师；
+# 🧑‍🏫 工作和教育经历
+- 2024.07–今，海南大学，物理与光电工程学院，讲师；
 
-- 2018–2024，华南理工大学，物理学，博士；
+- 2018.09–2024.06，华南理工大学，物理学，博士；
 
-- 2014–2018，华南理工大学，应用物理学，学士。
+- 2014.09–2018.06，华南理工大学，应用物理学，学士。
+
+<span class='anchor' id='lectures'></span>
+
+# 📖 课程
+- 2024–今，《大学物理》、《大学物理实验》，参与。
 
 <span class='anchor' id='publications'></span>
 
@@ -52,12 +57,8 @@ redirect_from:
 
 - Jiani Liu, **Jiarui Zeng**, Duokai Zhao, Yao Yao, Dehua Hu, and Yuguang Ma, Comprehending radicals, diradicals and their bondings in aggregates of imide-fused polycyclic aromatic hydrocarbons, Chem. Sci. **13**, 9985 (2022).
 
-<span class='anchor' id='lectures'></span>
+<span class='anchor' id='report'></span>
 
-# 📖 教学经历
-- 2024–今，《大学物理》、《大学物理实验》，参与。
+# 🙋‍♂️ 学术报告
 
-<span class='anchor' id='others'></span>
-
-# 👏 其他信息
-欢迎对计算物理和计算化学感兴趣的同学联系，同时也欢迎本科生联系我做毕业设计。 刚起步时没有相应的科研技能是非常正常的事，因此不用对理论研究的学习产生畏惧心理。然而，希望你能保持「即使硬着头皮也要搞下去」的心态，同时也要多读文献和多跟指导老师交流。
+- 2025.04，华南理工大学，广东，广州。
