@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-讲师，海南自由贸易港E类人才。主要从事开放量子系统的非平衡动力学和有机分子体系的光、电、磁性质的理论研究。迄今已发表SCI论文10余篇，其中以第一作者身份在Phys. Rev. A、J. Chem. Theory Comput.、J. Phys. Chem. Lett.等国际学术期刊上发表论文6篇。担任J. Phys. Chem. Lett.、Sci. Rep.等期刊的审稿人。
+讲师，海南自由贸易港E类人才。2018年、2024年于华南理工大学获得学士、博士学位，2024年至今于海南大学工作。主要从事开放量子系统的非平衡动力学和有机分子体系的光、电、磁性质的理论研究。迄今已发表SCI论文10余篇，其中以第一作者身份在Phys. Rev. A、J. Chem. Theory Comput.、J. Phys. Chem. Lett.等国际学术期刊上发表论文6篇。担任J. Phys. Chem. Lett.、Sci. Rep.等期刊的审稿人。
 
 <span class='anchor' id='education-employment'></span>
 
@@ -32,6 +32,8 @@ redirect_from:
 
 # 📖 课程
 - 2024–今，《大学物理》、《大学物理实验》，参与。
+
+- 2019–2020，《高等量子力学》，助教。
 
 <span class='anchor' id='publications'></span>
 
