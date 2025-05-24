@@ -59,8 +59,8 @@ redirect_from:
 
 - Jiani Liu, **Jiarui Zeng**, Duokai Zhao, Yao Yao, Dehua Hu, and Yuguang Ma, Comprehending radicals, diradicals and their bondings in aggregates of imide-fused polycyclic aromatic hydrocarbons, Chem. Sci. **13**, 9985 (2022).
 
-<span class='anchor' id='report'></span>
+<span class='anchor' id='others'></span>
 
-# 🙋‍♂️ 学术报告
+# 👏 其他信息
 
-- 2025.04，华南理工大学，广东，广州。
+待补充。
