@@ -36,7 +36,7 @@ Dr. Zeng received his B.S. degree (2018.06) in applied physics and PhD degree (2
 
 - **Jiarui Zeng**, Wen-Qiang Xie, and Yang Zhao, Variational approach to entangled non-Hermitian open systems, J. Chem. Theory Comput. **21**, 3857 (2025).
 
-- **Jiarui Zeng**, Guo-Hao Xu, Weijie Huang, and Yao Yao, Classical-quantum correspondence in noise-based dissipative systems, Phys. Rev. A **110**, 062219 (2024). <font color=Aqua>[[preprint]](https://arxiv.org/abs/2408.03543)<font>
+- **Jiarui Zeng**, Guo-Hao Xu, Weijie Huang, and Yao Yao, Classical-quantum correspondence in noise-based dissipative systems, Phys. Rev. A **110**, 062219 (2024). [<font color=Blue>[preprint](https://arxiv.org/abs/2408.03543)<font>]
 
 - **Jiarui Zeng** and Yao Yao, Perturbative dynamics in the pseudocoherent phase of the spin-boson model, Phys. Rev. A **110**, 012212 (2024).
 
@@ -46,12 +46,12 @@ Dr. Zeng received his B.S. degree (2018.06) in applied physics and PhD degree (2
 
 **[2] Photonic, electronic, and magnetic properties of organic molecules**
 
-- **Jiarui Zeng**, Chang-Chun He, Shao-Bin Qiu, and Yao Yao, Orbital inversion mechanisms hidden in strongly-correlated radical systems, chemrxiv-2025-4hxl9 (2025). <font color=Aqua>[[preprint]]([https://arxiv.org/abs/2408.03543](https://chemrxiv.org/engage/chemrxiv/article-details/685bcb041a8f9bdab57abfce))<font>
+- **Jiarui Zeng**, Chang-Chun He, Shao-Bin Qiu, and Yao Yao, Orbital inversion mechanisms hidden in strongly-correlated radical systems, chemrxiv-2025-4hxl9 (2025). [<font color=Blue>[preprint](https://chemrxiv.org/engage/chemrxiv/article-details/685bcb041a8f9bdab57abfce)<font>]
 
 - **Jiarui Zeng** and Yao Yao, Variational squeezed Davydov Ansatz for realistic chemical systems with nonlinear vibronic coupling, J. Chem. Theory Comput. **18**, 1255 (2022).
 
 - **Jiarui Zeng**, Shao-Bin Qiu, Yu-Jun Zhao, Xiao-Bao Yang, and Yao Yao, Quantum dynamics simulation of doublet excitation and magnetic field effect in neutral radical materials, J. Phys. Chem. Lett. **11**, 1194 (2020).
 
-- Jiani Liu, **Jiarui Zeng**, Duokai Zhao, Yao Yao, Dehua Hu, and Yuguang Ma, Comprehending radicals, diradicals and their bondings in aggregates of imide-fused polycyclic aromatic hydrocarbons, Chem. Sci. **13**, 9985 (2022). <font color=Aqua>[[preprint]]([https://arxiv.org/abs/2408.03543](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d2sc02906e))<font>
+- Jiani Liu, **Jiarui Zeng**, Duokai Zhao, Yao Yao, Dehua Hu, and Yuguang Ma, Comprehending radicals, diradicals and their bondings in aggregates of imide-fused polycyclic aromatic hydrocarbons, Chem. Sci. **13**, 9985 (2022). [<font color=Blue>[open access](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d2sc02906e)<font>]
 
 <span class='anchor' id='others'></span>
