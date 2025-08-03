@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Zeng received his B.S. degree (2018.06) in applied physics and PhD degree (2024.06) in physics at South China University of Technology. Since 2024, he has been working at Hainan University. His research interests include the nonequilibrium dynamics of open quantum systems and the photonic, electronic, and magnetic properties of organic molecules. He also collaborates on theoretical and technical support in density functional theory and quantum dynamics.
+Dr. Zeng received his B.S. degree (2018.06) in applied physics and PhD degree (2024.06) in physics at South China University of Technology. Since 2024, he has been working at Hainan University. His research interests include the nonequilibrium dynamics of open quantum systems and the optoelectronic and magnetic properties of organic molecules. He also collaborates on theoretical and technical support in density functional theory and quantum dynamics.
 
 <span class='anchor' id='education-employment'></span>
 
@@ -44,7 +44,7 @@ Dr. Zeng received his B.S. degree (2018.06) in applied physics and PhD degree (2
 
 - Guo-Hao Xu, **Jiarui Zeng**, and Yao Yao, Dynamic phases of synthetic bath at negative temperatures, J. Chem. Phys. **162**, 164303 (2025).
 
-**[2] Photonic, electronic, and magnetic properties of organic molecules**
+**[2] Optoelectronic and magnetic properties of organic molecules**
 
 - **Jiarui Zeng**, Chang-Chun He, Shao-Bin Qiu, and Yao Yao, Orbital inversion mechanisms hidden in strongly-correlated radical systems, chemrxiv-2025-4hxl9 (2025). [[preprint](https://chemrxiv.org/engage/chemrxiv/article-details/685bcb041a8f9bdab57abfce)]
 
