@@ -22,11 +22,24 @@ Dr. Zeng received his B.S. degree (2018.06) in applied physics and PhD degree (2
 <span class='anchor' id='education-employment'></span>
 
 # 🧑‍🏫 Employment and education
-- 2024.07–now, Hainan University, School of Physics and Optoeletronic Engineering, Asst. Prof.;
+
+- 2026.01–present, Hainan University, School of Physics and Optoeletronic Engineering, Assoc. Prof.;
+
+- 2024.07–2025.12, Hainan University, School of Physics and Optoeletronic Engineering, Asst. Prof.;
 
 - 2018.09–2024.06, South China University of Technology, Physics, PhD;
 
 - 2014.09–2018.06, South China University of Technology, Applied physics, B.S..
+
+<span class='anchor' id='funding'></span>
+
+# 🧭 Funding
+
+- The National Natural Science Foundation of China, 2026.01–2029.12.
+
+- The Natural Science Fund Projects of Hainan Province, 2027.03–2029.02.
+
+- The Start-up Research Foundation of Hainan University, 2024.07–2029.06.
 
 <span class='anchor' id='lectures'></span>
 
@@ -41,6 +54,8 @@ Dr. Zeng received his B.S. degree (2018.06) in applied physics and PhD degree (2
 - **Jiarui Zeng** and Yao Yao, Perturbative dynamics in the pseudocoherent phase of the spin-boson model, Phys. Rev. A **110**, 012212 (2024).
 
 - **Jiarui Zeng**, Xiao-Tong Yan, Yao Yao, Yu-Jun Zhao, Liang Chen, and Mang Feng, Theoretical investigation of electric-field noise emanating from vibrational adatoms, Phys. Rev. A **108**, 023121 (2023).
+
+- Guo-Hao Xu, **Jiarui Zeng**, and Yao Yao, Simple model for realizing coherent ergotropy in open quantum systems, J. Chem. Phys. **164**, 134309 (2026).
 
 - Guo-Hao Xu, **Jiarui Zeng**, and Yao Yao, Dynamic phases of synthetic bath at negative temperatures, J. Chem. Phys. **162**, 164303 (2025).
 
